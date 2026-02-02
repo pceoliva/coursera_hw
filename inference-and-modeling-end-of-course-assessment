@@ -1,4 +1,4 @@
-#####
+##### This contains my solutions to End of Course Assessment in Data Science for HarvardX. ####
 
 #library(tidyverse)
 data(brexit_polls)
